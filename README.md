@@ -11,7 +11,7 @@ First Year Courses:
 - Statistical Mechanics of Complex Systems
 - Network Modelling (Stochastic Processes)
 
-In my Github you can find the projects I'm developing during my studies. 
+In my Github you can find the projects I'm developing during my studies. For more information you can visit my [personal website](https://nicolazomer.github.io/).
 
 ### :email: Contact info
 * E-mail: nicola.zomer@studenti.unipd.it

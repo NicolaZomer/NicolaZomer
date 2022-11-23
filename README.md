@@ -15,6 +15,7 @@ Second year courses (in progress):
 - Information Theory and Inference
 - Physical Models of Living Systems
 - Human Data Analytics
+- Neural Networks and Deep Learning
 - Network Science
 - Vision and Cognitive Systems
 

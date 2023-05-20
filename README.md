@@ -8,6 +8,6 @@ I am a Master's student in Physics of Data at the University of Padua. The Maste
 
 In my Github you can find the projects I'm developing during my studies. For more information you can visit my [personal website](https://nicolazomer.github.io/).
 
-### :email: Contact info
+### Contact info
 * E-mail: nicola.zomer@studenti.unipd.it
 * [![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolazomer/)

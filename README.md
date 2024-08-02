@@ -1,12 +1,12 @@
 ### Ciao everyone! 👋
 
-I am a Master's student in Physics of Data at the University of Padua. The Master’s degree provides new theoretical and computational tools to tackle the explosion of datasets within the physicist mindset. The program intends to build an academic and professional figure that combines advanced knowledge in the field of Physics with a high-level training in Data Science.
+I am an incoming PhD student in Maritime Route Optimization at [MWI](https://marine-weather.com/) and the [LMBA laboratory](http://www.lmba-math.fr/) in Vannes (France) as part of the [CIFRE program](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844). In addition, I will also collaborate with the [Quantitative Life Sciences group] at ICTP in Trieste (Italy). 
 
 - 🎓 BSc in Aerospace Engineering
 - 📚 MSc in Physics of Data 
 - 🤸‍♂️ Fun fact: I can stand on one hand 
 
-In my Github you can find the projects I'm developing during my studies. For more information you can visit my [personal website](https://nicolazomer.github.io/).
+Here you can find some stuff on which I'm currently working/I've worked during my studies. For more information, you can visit my [personal website](https://nicolazomer.github.io/).
 
 ### Contact info
 * E-mail: nicola.zomer@studenti.unipd.it

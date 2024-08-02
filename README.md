@@ -6,7 +6,7 @@ I am an incoming PhD student in maritime route optimization at [MWI](https://mar
 - 📚 MSc in Physics of Data 
 - 🤸‍♂️ Fun fact: I can stand on one hand 
 
-Here you can find some stuff on which I'm currently working/I've worked during my studies. For more information, you can visit my [personal website](https://nicolazomer.github.io/).
+Here you can find some stuff on which I'm currently working/I've worked during my studies.
 
 ### Contact info
 * E-mail: nicola.zomer@studenti.unipd.it

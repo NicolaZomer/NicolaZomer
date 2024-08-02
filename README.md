@@ -1,6 +1,6 @@
 ### Ciao everyone! 👋
 
-I am an incoming PhD student in maritime route optimization at [MWI](https://marine-weather.com/) and the [LMBA laboratory](http://www.lmba-math.fr/) in Vannes (France) as part of the [CIFRE program](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844). In addition, I will also collaborate with the [Quantitative Life Sciences group] at ICTP in Trieste (Italy). 
+I am an incoming PhD student in maritime route optimization at [MWI](https://marine-weather.com/) and the [LMBA laboratory](http://www.lmba-math.fr/) in Vannes (France) as part of the [CIFRE program](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844). In addition, I will also collaborate with the [Quantitative Life Sciences group](https://www.ictp.it/qls) at ICTP in Trieste (Italy). 
 
 - 🎓 BSc in Aerospace Engineering
 - 📚 MSc in Physics of Data 

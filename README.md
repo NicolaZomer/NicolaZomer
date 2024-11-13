@@ -1,6 +1,6 @@
 ### Ciao everyone! 👋
 
-I am an incoming PhD student in applied data science and AI at [MWI](https://marine-weather.com/) and the [LMBA laboratory](http://www.lmba-math.fr/) in Vannes (France) as part of the [CIFRE program](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844). Every now and then you can also find me in Trieste (Italy) working with [Antonio Celani](https://www.ictp.it/member/antonio-celani#biography)! 
+I am a research engineer at [Marine Weather Intelligence (MWI)](https://marine-weather.com/), working on the weather routing problem in collaboration with the [LMBA laboratory](http://www.lmba-math.fr/) in Vannes, France, and the [Quantitative Life Sciences group](https://www.ictp.it/qls) at ICTP in Trieste, Italy. 
 
 Here you can find some stuff on which I'm currently working/I've worked during my studies.
 

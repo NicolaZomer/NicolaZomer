@@ -1,6 +1,6 @@
 ### Ciao everyone! 👋
 
-I am a research engineer at [Marine Weather Intelligence (MWI)](https://marine-weather.com/), working on the weather routing problem in collaboration with the [LMBA laboratory](http://www.lmba-math.fr/) in Vannes, France, and the [Quantitative Life Sciences group](https://www.ictp.it/qls) at ICTP in Trieste, Italy. 
+I am a research engineer at [Marine Weather Intelligence (MWI)](https://marine-weather.com/), working on the weather routing problem.
 
 Here you can find some stuff on which I'm currently working/I've worked during my studies.
 
